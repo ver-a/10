@@ -5,19 +5,21 @@
 ####Университетская информационная система, реализованная на Java. Проект моделирует структуру университета с факультетами, институтами, сотрудниками, курсами и проектами.
 ---
 1. Use Case
-<img src="URL_картинки" width="300" height="200">
-<img src="https://github.com/ver-a/10/blob/main/10/image/1.png" width="100" height="100">
+![Логотип GitHub](https://github.com/ver-a/10/blob/main/10/image/1.png)
 
 ---
 2. Class Diagram
-![Текст если картинка не загрузится](URL_картинки)
 ![Логотип GitHub](https://github.com/ver-a/10/blob/main/10/image/классы.png)
 ---
 3. Sequence Diagram
+![Логотип GitHub](https://github.com/ver-a/10/blob/main/10/image/3.png)
 ---
 4. State Machine Diagram
+![Логотип GitHub](https://github.com/ver-a/10/blob/main/10/image/2.png)
 ---
 5. Результат работы
+![Логотип GitHub](https://github.com/ver-a/10/blob/main/10/image/результат.png)
 ---
 6. Class Diagram(реинжиниринг)
+![Логотип GitHub](https://github.com/ver-a/10/blob/main/10/image/после.png)
 --- 
