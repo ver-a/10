@@ -7,8 +7,11 @@
 1. Use Case
 <img src="URL_картинки" width="300" height="200">
 <img src="https://github.com/ver-a/10/blob/main/10/image/1.png" width="100" height="100">
+
 ---
 2. Class Diagram
+![Текст если картинка не загрузится](URL_картинки)
+![Логотип GitHub](https://github.com/ver-a/10/blob/main/10/image/классы.png)
 ---
 3. Sequence Diagram
 ---
